@@ -1,26 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './styles/globals.css'
+import { Todos } from './components/Todos/Todos'
+import { Navbar } from './components/Navbar/Navbar'
+import { TodoInput } from './components/TodoInput/TodoInput'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<>
+		<Navbar />
+		<TodoInput />
+		<Todos />
+		</>	
+	)	
 }
 
-export default App;
+export default App
