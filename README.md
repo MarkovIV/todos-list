@@ -1,5 +1,13 @@
 # Todos application
 
+## You can use this solution to keep your to-do list.
+
+This is how it works: _[Todos list](https://markoviv.github.io/todos-list/)_.
+
+And this is how it looks:
+
+[![Todos list](/screenshotTodosView.jpg "Todos list")](https://markoviv.github.io/todos-list/)
+
 This project was bootstrapped with [Todos](https://github.com/MarkovIV/Todos).
 
 ## Available Scripts
