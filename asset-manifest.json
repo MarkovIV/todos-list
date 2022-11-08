@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todos-list/static/css/main.01c1045b.css",
+    "main.css": "/todos-list/static/css/main.c67db427.css",
     "main.js": "/todos-list/static/js/main.9a98541f.js",
     "static/media/enter.svg": "/todos-list/static/media/enter.20385347a62fefc52f7d6e52892d1a8f.svg",
     "static/media/delete.svg": "/todos-list/static/media/delete.e1e4fc49779172575939a3083f1d44fe.svg",
@@ -10,11 +10,11 @@
     "static/media/finish.svg": "/todos-list/static/media/finish.4f86b1a21f8ed08c7d82c6057f9edc84.svg",
     "static/media/checkboxIsNotDone.svg": "/todos-list/static/media/checkboxIsNotDone.216f4580cb06315a50a6881000448a41.svg",
     "static/media/checkboxIsDone.svg": "/todos-list/static/media/checkboxIsDone.9222550ff2a85b0d726397ccbde3a23a.svg",
-    "main.01c1045b.css.map": "/todos-list/static/css/main.01c1045b.css.map",
+    "main.c67db427.css.map": "/todos-list/static/css/main.c67db427.css.map",
     "main.9a98541f.js.map": "/todos-list/static/js/main.9a98541f.js.map"
   },
   "entrypoints": [
-    "static/css/main.01c1045b.css",
+    "static/css/main.c67db427.css",
     "static/js/main.9a98541f.js"
   ]
 }
